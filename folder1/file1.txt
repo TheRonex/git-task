@@ -1,1 +1,2 @@
 File 1 in folder1
+New content
